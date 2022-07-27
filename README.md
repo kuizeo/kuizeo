@@ -1,10 +1,16 @@
-# Hi, I'm kuizeo.
+# hi, I'm kuizeo!
 
-I make things sometimes, most often in Python, JavaScript, TypeScript, C, C++,
-Rust, and V. Currently, I'm uploading some of my old projects to GitHub (and
-updating a few).
+I make things sometimes, most often in Python, JavaScript, TypeScript, C,
+and Rust. currently, I'm uploading some of my old projects to GitHub (and
+updating a few). here's a list of some things I've published to GitHub:
 
----
+- **meta:** [this readme](https://github.com/kuizeo/kuizeo),
+  [my website](https://github.com/kuizeo/website)
+- **small tools:** [lengthen](https://github.com/kuizeo/lengthen),
+  [prpl](https://github.com/kuizeo/prpl),
+  [file2img](https://github.com/kuizeo/lengthen)
 
-If you've found a bug in a project of mine, I tend to check issues often, so
-hopefully it will be fixed quickly.
+## contact
+
+- discord: kuizeo#5923 (or kuitwo#0844)
+- telegram: @kuizeo (don't read this often)
